@@ -1,6 +1,6 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">Proffy - Next Level Week 2 - Raniel Dourado</h1>
+<h2 align="center">Proffy - Next Level Week 2 - Raniel Dourado</h2>
 
 <div align="center">
    A <a href="https://rocketseat.com.br/" target="_blank">Rocketseat</a> project of Next Level Week 2 by <a href="https://instagram.com/raniel_dourado" target="_blank">Raniel Dourado</a>.
@@ -17,18 +17,17 @@
 <!-- TABLE OF CONTENTS -->
 
 ## Table of Contents
-
 - [Table of Contents](#table-of-contents)
 - [Overview](#overview)
 - [Built With](#built-with)
-- [Features](#features)
+- [Run](#run)
 - [Contact](#contact)
 
 
 <!-- OVERVIEW -->
 
 ## Overview
-
+A simple project to schedule lessons using node with template engine, created at Next Level Week 2, na event powered by [Rocketseat](https://rocketseat.com.br/).
 ![screenshot](/index-overview.png)
 
 
@@ -43,16 +42,13 @@
 - Express
 - SQLite
 
-## Features
+## Run
 
-<!-- List the features of your application or follow the template. Don't share the figma file here :) -->
+> ```$ npm install ```
 
-This application/site was created as a submission to a [Rocketseat](https://rocketseat.com.br/) event.
-
+> ```$ npm run dev ``` 
 
 ## Contact
-
-- GitHub [rnldourado](https://github.com/rnldourado)
 - Instagram [@raniel_dourado](https://www.instagram.com/raniel_dourado/)
 - Twitter [raniel_dourado](https://twitter.com/raniel_dourado)
-- LinkedIn [Raniel Dourado](https://www.linkedin.com/in/raniel-dourado-140683197/)
+- LinkedIn [Raniel Dourado](https://www.linkedin.com/in/raniel-dourado)
