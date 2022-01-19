@@ -8,8 +8,8 @@
 
 <div align="center">
   <h3>
-    <a href="https://proffy-nlw2.netlify.app/">
-      Demo
+    <a href="https://proffy-app-nodejs.herokuapp.com/">
+      See
     </a>
   </h3>
 </div>
@@ -18,8 +18,9 @@
 
 ## Table of Contents
 
+- [Table of Contents](#table-of-contents)
 - [Overview](#overview)
-  - [Built With](#built-with)
+- [Built With](#built-with)
 - [Features](#features)
 - [Contact](#contact)
 
